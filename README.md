@@ -1,3 +1,11 @@
+# NFTEarth and NFTFi 
+
+## Overview 
+
+This repository aims to serve as the base level of building NFTFi tooling and integrations/applications for supporting all DeFi protocols - from small to large - to on-board into Layer2 ecosystems and into NFTFinance (NFTFi) use-cases. The market is new and there is currently not a single protocol serving these unmet needs. NFTEarth aims to be the first, or one of the leaders in NFTFi practical applications by using the Yearn V3 tokenized strategies as the foundational starting point - this will allow for using DeFi tokens to obtain loans and earn extra yield - composability enabled through NFT collateralization. Below is forked from Yearn's tokenized strategy repo. Checkout ERC-4626 details from [Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/) to learn about the implications and possibilities here.
+
+![image](https://user-images.githubusercontent.com/29180454/236651201-88e11a90-882b-49de-9edf-f40d19090300.png)
+
 
 # Yearn Tokenized Strategy
 
