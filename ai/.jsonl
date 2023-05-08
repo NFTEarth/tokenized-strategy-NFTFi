@@ -1,0 +1,7 @@
+{"name": "aSTETH", "defaults": [["LTV", "88"], ["insolvent", "88"]]}
+
+{"name": "rETHa", "healthy": [["LTV", "76], ["healthy", "76"]]}
+
+{"name": "sETH2", "healthy": []}
+
+{"name": "yvsteCRV", "healthy": [["LTV", "90"]]}
